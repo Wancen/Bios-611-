@@ -1,6 +1,6 @@
 # Bios-611-
 ## Project2: 
-Outline: Test the association of unemploy,suicide and continient by R and using Makefile to draw the workflow.
+### Outline: Test the association of unemploy,suicide and continient by R and using Makefile to draw the workflow.
 
 Three datasets: suicide.csv continent.csv unemploy.csv
 
@@ -27,7 +27,7 @@ Unemploy_vs_Suicide.png is the plot generated and saved by unemploy_vs_suicide.R
 If you knit Project2.Rmd in Rstudio, the 3D world map can display when you click `open in browser` at the left top of the automatically generated html file.
 
 ## Project3:
-outilne: Using Docker to get the separately institutate and their research areas keywords frequency and present it in shiny from thousands of paper
+### Outilne: Using Docker to get the separately institutate and their research areas keywords frequency and present it in shiny from thousands of paper
 
 * Build a docker image, install other packages into rocker/tidyverse.
 
