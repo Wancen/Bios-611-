@@ -1,0 +1,139 @@
+"region","Country","sex","alpha.3","number","population_total","suicide_rate"
+"Africa","Egypt","female","EGY",13,38732094,0.0335638966486036
+"Africa","Egypt","male","EGY",35,40153072,0.0871664314999361
+"Africa","Mauritius","female","MUS",26,584173,4.45073634009103
+"Africa","Mauritius","male","MUS",78,570675,13.6680247075831
+"Africa","Seychelles","female","SYC",1,43478,2.3000138000828
+"Africa","Seychelles","male","SYC",6,42471,14.1272868545596
+"Africa","South Africa","female","ZAF",105,25338753,0.414385033075621
+"Africa","South Africa","male","ZAF",377,24288707,1.55216166920701
+"Americas","Antigua and Barbuda","female","ATG",1,47990,2.08376745155241
+"Americas","Antigua and Barbuda","male","ATG",0,43899,0
+"Americas","Argentina","female","ARG",604,20346129,2.96862366300735
+"Americas","Argentina","male","ARG",2469,19353495,12.7573856815009
+"Americas","Aruba","female","ABW",2,51989,3.84696762776741
+"Americas","Aruba","male","ABW",7,46723,14.9819146886972
+"Americas","Belize","female","BLZ",4,160712,2.48892428692319
+"Americas","Belize","male","BLZ",22,159123,13.8257825707157
+"Americas","Brazil","female","BRA",2397,97410044,2.46073187278306
+"Americas","Brazil","male","BRA",8766,93677041,9.35768242295356
+"Americas","Chile","female","CHL",378,8379071,4.51123996920422
+"Americas","Chile","male","CHL",1460,8186654,17.833903814672
+"Americas","Colombia","female","COL",482,22655726,2.12749748121071
+"Americas","Colombia","male","COL",1850,21834701,8.47275169923325
+"Americas","Cuba","female","CUB",300,5420186,5.53486540867786
+"Americas","Cuba","male","CUB",1211,5411882,22.3766889226336
+"Americas","Ecuador","female","ECU",266,7286798,3.6504374074868
+"Americas","Ecuador","male","ECU",807,7247226,11.1352950770405
+"Americas","Grenada","female","GRD",0,48397,0
+"Americas","Grenada","male","GRD",0,48495,0
+"Americas","Guatemala","female","GTM",144,7282364,1.97737987279955
+"Americas","Guatemala","male","GTM",350,6976033,5.01717810107836
+"Americas","Honduras","female","HND",1,19617,5.09761941173472
+"Americas","Honduras","male","HND",1,18916,5.28652992175936
+"Americas","Mexico","female","MEX",1248,57572745,2.1676923690194
+"Americas","Mexico","male","MEX",4986,56785139,8.7804663117933
+"Americas","Nicaragua","female","NIC",85,2787968,3.04881548138286
+"Americas","Nicaragua","male","NIC",230,2688515,8.55490856476531
+"Americas","Panama","female","PAN",19,1790195,1.06133689346691
+"Americas","Panama","male","PAN",91,1793187,5.07476353553757
+"Americas","Puerto Rico","female","PRI",25,1808555,1.3823190337037
+"Americas","Puerto Rico","male","PRI",201,1660966,12.1013915998281
+"Americas","Saint Vincent and the Grenadines","female","VCT",1,50028,1.99888062684896
+"Americas","Saint Vincent and the Grenadines","male","VCT",2,50920,3.92772977219167
+"Americas","United States of America","female","USA",10199,151958511,6.71170040617205
+"Americas","United States of America","male","USA",33990,148120000,22.9476100459087
+"Americas","Uruguay","female","URY",131,1657298,7.90443239538092
+"Americas","Uruguay","male","URY",499,1533497,32.5400049690348
+"Americas","Virgin Islands (U.S.)","female","VIR",0,51491,0
+"Americas","Virgin Islands (U.S.)","male","VIR",3,46460,6.45716745587602
+"Asia","Armenia","female","ARM",19,1472585,1.29024810112829
+"Asia","Armenia","male","ARM",55,1322750,4.15800415800416
+"Asia","Brunei Darussalam","female","BRN",2,186156,1.07436773458819
+"Asia","Brunei Darussalam","male","BRN",5,197924,2.52622218629373
+"Asia","Cyprus","female","CYP",9,410382,2.19307864380017
+"Asia","Cyprus","male","CYP",31,385655,8.03827254929924
+"Asia","Georgia","female","GEO",48,1816600,2.64229879995596
+"Asia","Georgia","male","GEO",144,1641800,8.77086124984773
+"Asia","Hong Kong","female","HKG",363,3790100,9.57758370491544
+"Asia","Hong Kong","male","HKG",627,3219400,19.475678697894
+"Asia","Iran (Islamic Republic of)","female","IRN",706,36028349,1.95956800573904
+"Asia","Iran (Islamic Republic of)","male","IRN",1666,36432650,4.57282135666771
+"Asia","Israel","female","ISR",73,3806333,1.91785637252442
+"Asia","Israel","male","ISR",269,3709847,7.25097288378739
+"Asia","Japan","female","JPN",6946,61881634,11.224655121421
+"Asia","Japan","male","JPN",16146,58494676,27.6025120645168
+"Asia","Kazakhstan","female","KAZ",530,8143820,6.50800238708616
+"Asia","Kazakhstan","male","KAZ",2342,7502932,31.2144638922491
+"Asia","Korea (Republic of)","female","KOR",4208,29476854,14.2756075665334
+"Asia","Korea (Republic of)","male","KOR",10689,29184223,36.6259536873742
+"Asia","Kyrgyzstan","female","KGZ",90,2637675,3.41209587989422
+"Asia","Kyrgyzstan","male","KGZ",327,2558152,12.782664986287
+"Asia","Qatar","female","QAT",9,548180,1.64179649020395
+"Asia","Qatar","male","QAT",57,1805967,3.15620385090093
+"Asia","Singapore","female","SGP",111,1896339,5.85338380954038
+"Asia","Singapore","male","SGP",218,1822776,11.9597800278257
+"Asia","Thailand","female","THA",839,31268178,2.68323917050747
+"Asia","Thailand","male","THA",3366,29993098,11.2225819420188
+"Asia","Turkey","female","TUR",397,35886425,1.10626789935191
+"Asia","Turkey","male","TUR",1135,35994039,3.15329991168815
+"Asia","Turkmenistan","female","TKM",41,2490877,1.6460066073114
+"Asia","Turkmenistan","male","TKM",92,2395637,3.8403147054416
+"Europe","Austria","female","AUT",290,4201798,6.90180727393368
+"Europe","Austria","male","AUT",961,4017588,23.9198245315348
+"Europe","Belgium","female","BEL",552,5411388,10.2007100581219
+"Europe","Belgium","male","BEL",1315,5212968,25.2255528904072
+"Europe","Croatia","female","HRV",197,2077384,9.48308064373269
+"Europe","Croatia","male","HRV",542,1924285,28.1663059266169
+"Europe","Denmark","female","DNK",174,2711902,6.41616105596736
+"Europe","Denmark","male","DNK",390,2671158,14.6004092607027
+"Europe","Estonia","female","EST",36,664414,5.41830846430087
+"Europe","Estonia","male","EST",159,579036,27.4594325741405
+"Europe","Finland","female","FIN",173,2637592,6.55901291784325
+"Europe","Finland","male","FIN",558,2544205,21.9321949292608
+"Europe","Germany","female","DEU",2685,39783984,6.74894701345144
+"Europe","Germany","male","DEU",7403,38352699,19.3024224970451
+"Europe","Greece","female","GRC",107,5336865,2.00492236547111
+"Europe","Greece","male","GRC",422,4994421,8.44942787161915
+"Europe","Hungary","female","HUN",479,4930381,9.71527352551456
+"Europe","Hungary","male","HUN",1389,4459138,31.1495181355679
+"Europe","Iceland","female","ISL",11,153642,7.15950065737233
+"Europe","Iceland","male","ISL",29,154912,18.7203057219583
+"Europe","Italy","female","ITA",883,29981927,2.94510756430032
+"Europe","Italy","male","ITA",3105,28135770,11.0357740342631
+"Europe","Latvia","female","LVA",81,1020425,7.93786902516108
+"Europe","Latvia","male","LVA",306,855097,35.7854138185492
+"Europe","Lithuania","female","LTU",169,1493405,11.3164211985362
+"Europe","Lithuania","male","LTU",727,1260521,57.6745647236341
+"Europe","Luxembourg","female","LUX",19,268532,7.07550682972607
+"Europe","Luxembourg","male","LUX",45,269216,16.7152026625461
+"Europe","Malta","female","MLT",7,205464,3.40692286726629
+"Europe","Malta","male","MLT",27,205173,13.159626266614
+"Europe","Moldova (Republic of)","female","MDA",92,1751458,5.25276655220964
+"Europe","Moldova (Republic of)","male","MDA",464,1611102,28.8001628698866
+"Europe","Netherlands","female","NLD",591,8114362,7.2833822301741
+"Europe","Netherlands","male","NLD",1282,7942980,16.1400381217125
+"Europe","Norway","female","NOR",190,2428440,7.82395282568233
+"Europe","Norway","male","NOR",400,2454469,16.2968039115589
+"Europe","Poland","female","POL",723,18675823,3.87131533641114
+"Europe","Poland","male","POL",4697,17410752,26.9775825880467
+"Europe","Romania","female","ROU",342,9674747,3.5349761601001
+"Europe","Romania","male","ROU",1886,9189180,20.524138171197
+"Europe","Russian Federation","female","RUS",4571,74007955,6.17636306799722
+"Europe","Russian Federation","male","RUS",20861,63010988,33.1069241447222
+"Europe","Serbia","female","SRB",269,3480549,7.72866579381586
+"Europe","Serbia","male","SRB",793,3285857,24.13373436519
+"Europe","Slovenia","female","SVN",90,987883,9.11039060293577
+"Europe","Slovenia","male","SVN",332,966749,34.3419026034679
+"Europe","Spain","female","ESP",923,22531779,4.09643641542907
+"Europe","Spain","male","ESP",2681,21654749,12.3806560861084
+"Europe","Sweden","female","SWE",331,4570064,7.24278697191112
+"Europe","Sweden","male","SWE",851,4544460,18.7260972700827
+"Europe","Switzerland","female","CHE",280,3994995,7.00876972311605
+"Europe","Switzerland","male","CHE",793,3897507,20.3463393394803
+"Europe","Ukraine","female","UKR",1426,21793215,6.54332093727337
+"Europe","Ukraine","male","UKR",6148,18552231,33.1388715459612
+"Europe","United Kingdom of Great Britain and Northern Ireland","female","GBR",1178,31072226,3.79116706990996
+"Europe","United Kingdom of Great Britain and Northern Ireland","male","GBR",3732,30010716,12.4355580186757
+"Oceania","Australia","female","AUS",735,11201512,6.56161418208542
+"Oceania","Australia","male","AUS",2292,11039273,20.7622367886001
